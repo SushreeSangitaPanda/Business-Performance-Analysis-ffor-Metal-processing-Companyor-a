@@ -1,5 +1,8 @@
 # Business Performance Analysis-for a Metal processing Company
 
+Link to the code: https://github.com/SushreeSangitaPanda/SushreeSangitaPanda/blob/1bc5892d2289a63010ab5b7779816bcb00a6f448/Laserhub_task-Copy1.ipynb
+
+
 This repository contains an in-depth analysis of business performance and customer segmentation based on a dataset containing information about items in orders. The analysis is conducted using Python libraries such as pandas, seaborn, as well as machine learning algorithms including Random Forest, SVM, and Logistic Regression. The dataset includes the following columns: item_uuid (PK), company_uuid (FK), order_uuid (FK), price, cost, quantity, material_group, material_type, thickness, diameter, deburring, bendings, vertical, dimension, length, customer_segments, and wz_code.
 
 ## Key Objectives and Conclusions
@@ -32,7 +35,6 @@ The primary objective of this analysis is to derive meaningful insights and conc
 
 4. **Results and Visualizations:** The "results" directory contains visualizations, graphs, and summary statistics generated during the analysis.
 
-Link to the code: https://github.com/SushreeSangitaPanda/SushreeSangitaPanda/blob/1bc5892d2289a63010ab5b7779816bcb00a6f448/Laserhub_task-Copy1.ipynb
 
 
 ## Conclusion
